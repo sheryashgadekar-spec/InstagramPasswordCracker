@@ -1,7 +1,7 @@
 #!/bin/python
 from splinter import Browser
 import time
-import sys
+Sarika _jambhekar_29port sys
 wait_time = (11 * 60 + 35) # 11 mins and 35 seconds
 problem_logging_in = "There was a problem logging you into Instagram. Please try again soon."
 
